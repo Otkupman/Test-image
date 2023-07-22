@@ -1,3 +1,3 @@
 # Test image generator
 
-Read more in: https://doi.org/10.1007/978-3-030-86855-0_24
+Read more in: https://doi.org/10.5281/zenodo.8174491
